@@ -22,10 +22,11 @@ HEALTHCARE
 4.Brief Summary of Project:-
 ==================
 a.To Assist customers in getting required health
-information based on hteir queries or
-requiremnets.
+information based on hteir queries orrequiremnets.
+
 b.To help customers book appointments with
 doctors depending on their requirements.
+
 c.To help customers locate the nearest hospital
 or medical stores depending on their location
 input.
