@@ -59,6 +59,14 @@ http://t.me/Amar_T_Healthcare_bot
 
 ![20220606_214221](https://user-images.githubusercontent.com/76237430/172210216-72bc0331-a285-4942-86b3-346372cab928.jpg)
 
+
+
+
+
+![20220606_214433](https://user-images.githubusercontent.com/76237430/172210550-05d1f492-defc-429a-863d-92a95d3a1f19.jpg)
+
+
+
 9.Additional comments:-
 ===============
 There is a large scope to add more features and
