@@ -59,11 +59,14 @@ There is a large scope to add more features and
 functionalities to the bot, which will be added to
 the bot in phase-3 submission of this
 hackathon.
+
 Please note that due to time constraints a
 skeleton /limited prototype is being submitted
 for phase-2 of this hackathon.
+
 Full functional prototype will be submitted in
 final phase-3.
+==============================================
 
 THANK YOU
-=======
+=========
