@@ -51,7 +51,10 @@ t.me/Amar_T_Healthcare_bot
 http://t.me/Amar_T_Healthcare_bot
 
 8.Screenshots:-
-==========
+==============
+
+screenshot 1
+============
 
 
 
@@ -62,6 +65,8 @@ http://t.me/Amar_T_Healthcare_bot
 
 
 
+screenshot 2
+============
 
 ![20220606_214433](https://user-images.githubusercontent.com/76237430/172210550-05d1f492-defc-429a-863d-92a95d3a1f19.jpg)
 
