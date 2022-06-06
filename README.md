@@ -1,6 +1,6 @@
 # healthcare_bot_kore.ai_hackathon
 Intelligent Virtual Assistants-Hackathon
-========================
+========================================
 1.Team Name:-
 ===========
 AMAR
@@ -97,7 +97,7 @@ Please note that due to time constraints a
 skeleton /limited prototype is being submitted
 for phase-2 of this hackathon.
 
-Full functional prototype will be submitted in
+Fully functional prototype will be submitted in
 final phase-3.
 ==============================================
 
