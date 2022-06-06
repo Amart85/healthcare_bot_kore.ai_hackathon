@@ -32,8 +32,10 @@ or medical stores depending on their location
 input.
 
 5.Technology/Tool Stack Used:-
-===================
+==============================
+
 a.kore.ai bot platform for building bot
+
 b.telegram app on android and web for
 deployment of bot and testing
 
