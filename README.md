@@ -39,9 +39,12 @@ deployment of bot and testing
 
 
 6.Access the bot on telegram android app with this link
+=======================================================
+
 t.me/Amar_T_Healthcare_bot
 
 7.Access the bot on telegram web using this link
+================================================
 
 http://t.me/Amar_T_Healthcare_bot
 
