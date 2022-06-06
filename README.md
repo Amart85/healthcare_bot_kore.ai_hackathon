@@ -22,4 +22,31 @@ input.
 5.Technology/Tool Stack Used:-
 ===================
 a.kore.ai bot platform for building bot
-b
+b.telegram app on android and web for
+deployment of bot and testing
+
+
+6.Access the bot on telegram android app with this link
+t.me/Amar_T_Healthcare_bot
+
+7.Access the bot on telegram web using this link
+
+http://t.me/Amar_T_Healthcare_bot
+
+8.Screenshots:-
+==========
+
+9.Additional comments:-
+===============
+There is a large scope to add more features and
+functionalities to the bot, which will be added to
+the bot in phase-3 submission of this
+hackathon.
+Please note that due to time constraints a
+skeleton /limited prototype is being submitted
+for phase-2 of this hackathon.
+Full functional prototype will be submitted in
+final phase-3.
+
+THANK YOU
+=======
